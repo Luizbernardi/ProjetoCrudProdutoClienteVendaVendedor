@@ -8,6 +8,7 @@ import java.util.List;
 import javax.swing.JOptionPane;
 
 
+@SuppressWarnings("unused")
 public class atividade03 {
 	private static Estoque estoque = new Estoque();
 
